@@ -1,101 +1,65 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+# <p align="center">Hi there, I'm Sudharshan! 👋</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%2!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/SudharshanR7/SudharshanR7/main/github_profile_banner.png" alt="Banner" width="100%">
 </p>
 
+### <p align="center">Computer Science Engineering Student | DSA Enthusiast | Innovator</p>
 
-<h3 align="center">
-  🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker
-</h3>
+---
+
+### 🚀 About Me
+
+I am a passionate **Computer Science Engineering student** who thrives on code, innovation, and "out-of-the-box" thinking. Currently, I am deeply immersed in mastering **Data Structures and Algorithms (DSA)** to build more efficient and scalable solutions. I love the process of turning ideas into functional, high-quality software.
+
+- 🔭 I’m currently working on enhancing my **DSA** skills.
+- 🌱 I’m currently learning more about **System Design** and **Scalable Backend Architectures**.
+- 💡 I believe in **innovation through different thinking**.
+- 📫 How to reach me: [sudharsan070r@gmail.com](mailto:sudharsan070r@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,python,figma,firebase&perline=9" />
+</p>
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Languages:** Python
+- **Design:** Figma
+- **Automation & Tools:** n8n, Google Firebase
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Lover-💻-bd93f9" />
-  <img src="https://img.shields.io/badge/Innovation-⚡-ff79c6" />
-  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-8be9fd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanR7&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Sudharshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharshanR7&theme=tokyonight&hide_border=true" alt="Sudharshan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanR7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-## 👋 About Me
+### 🤝 Connect with Me
 
-🎓 Computer Science Engineering student  
-📚 Currently learning **Data Structures & Algorithms (DSA)**  
-💡 Passionate about **code, innovation, and different thinking**  
-🛠️ Turning ideas into meaningful digital experiences  
-
-> *Different thinking leads to different results — and that mindset shapes everything I build.*
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<table align="center">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TAILWIND%20CSS-14b8a6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔧 Backend
-<img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/EXPRESS.JS-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🗄️ Database & Cloud
-<img src="https://img.shields.io/badge/MONGODB-0d1117?style=for-the-badge&logo=mongodb&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/FIREBASE-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28" />
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🧠 Languages
-<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🎨 Design
-<img src="https://img.shields.io/badge/FIGMA-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚙️ Automation
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg"
-     width="52"
-     style="filter: brightness(0) saturate(100%) invert(17%) sepia(89%) saturate(7492%) hue-rotate(355deg) brightness(102%) contrast(120%);" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sudarshanr7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:sudharsan070r@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudarshanr7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
+  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
 </p>
