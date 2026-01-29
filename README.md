@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:bd93f9&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%20!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker</h3>
 
