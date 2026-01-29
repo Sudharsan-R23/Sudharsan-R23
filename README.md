@@ -24,7 +24,7 @@
 <tr>
   <td align="center" width="33%">
     <b>Frontend</b><br><br>
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind" />
   </td>
   <td align="center" width="33%">
     <b>Backend</b><br><br>
@@ -32,7 +32,7 @@
   </td>
   <td align="center" width="33%">
     <b>Languages / Tools</b><br><br>
-    <img src="https://skillicons.dev/icons?i=python,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,figma,firebase,n8n" />
   </td>
 </tr>
 </table>
@@ -53,4 +53,4 @@
 
 ---
 
-⭐ *"Different thinking leads to different results."*
+
