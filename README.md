@@ -2,8 +2,9 @@
 <h3 align="center">Computer Science Engineering Student | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Learning+DSA+%26+System+Design;Love+Code%2C+Innovation+%26+Different+Thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Learning+DSA;Love+Code%2C+Innovation+%26+Different+Thinking" />
 </p>
+
 
 ---
 
