@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:bd93f9&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Lover-💻-red" />
-  <img src="https://img.shields.io/badge/Innovation-⚡-purple" />
-  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-pink" />
+  <img src="https://img.shields.io/badge/Code%20Lover-💻-bd93f9" />
+  <img src="https://img.shields.io/badge/Innovation-⚡-ff79c6" />
+  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-8be9fd" />
 </p>
 
 ---
@@ -24,49 +24,44 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack & Skills (2 Columns)
 
-### 🔹 Frontend  
-<p align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Frontend  
+<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
 </p>
 
-### 🔹 Backend  
-<p align="center">
+### 🔧 Backend  
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🔹 Database & Cloud  
-<p align="center">
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Database & Cloud  
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🔹 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
-
-### 🔹 Design & Automation  
-<p align="center">
+### 🎨 Design & Automation  
+<p>
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" />
 </p>
 
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan-R23&show_icons=true&theme=radical" />
+### 🧠 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsan-R23&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan-R23&layout=compact&theme=radical" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,5 +79,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:f43f5e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:7f5af0&height=120&section=footer" />
 </p>
