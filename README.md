@@ -1,7 +1,8 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:bd93f9&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%2!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">
   🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker
@@ -26,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills (3×2 Grid)
+## 🛠️ Tech Stack & Skills
 
 <table align="center">
 <tr>
@@ -94,6 +95,7 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:7f5af0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
 </p>
