@@ -1,65 +1,73 @@
-# <p align="center">Hi there, I'm Sudharshan! 👋</p>
+<h1 align="center">Hi 👋, I'm Sudharshan</h1>
+<h3 align="center">Computer Science Engineering Student | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SudharshanR7/SudharshanR7/main/github_profile_banner.png" alt="Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Learning+DSA+%26+System+Design;Love+Code%2C+Innovation+%26+Different+Thinking" />
 </p>
 
-### <p align="center">Computer Science Engineering Student | DSA Enthusiast | Innovator</p>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 📚 Currently learning **DSA & Problem Solving**  
+- 💡 Passionate about **Code, Innovation & Different Thinking**  
+- 🔍 I enjoy building meaningful digital experiences  
 
 ---
 
-### 🚀 About Me
+## 🛠️ Skills
 
-I am a passionate **Computer Science Engineering student** who thrives on code, innovation, and "out-of-the-box" thinking. Currently, I am deeply immersed in mastering **Data Structures and Algorithms (DSA)** to build more efficient and scalable solutions. I love the process of turning ideas into functional, high-quality software.
+<table>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Tools & Design</b></td>
+</tr>
 
-- 🔭 I’m currently working on enhancing my **DSA** skills.
-- 🌱 I’m currently learning more about **System Design** and **Scalable Backend Architectures**.
-- 💡 I believe in **innovation through different thinking**.
-- 📫 How to reach me: [sudharsan070r@gmail.com](mailto:sudharsan070r@gmail.com)
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,figma,firebase" />
+</td>
+</tr>
+
+<tr>
+<td align="center">React.js<br>JavaScript<br>Tailwind CSS</td>
+<td align="center">Node.js<br>Express.js<br>MongoDB</td>
+<td align="center">Python<br>Figma<br>Firebase<br>n8n</td>
+</tr>
+</table>
 
 ---
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,python,figma,firebase&perline=9" />
-</p>
-
-- **Frontend:** React.js, Tailwind CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Languages:** Python
-- **Design:** Figma
-- **Automation & Tools:** n8n, Google Firebase
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanR7&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Sudharshan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharshanR7&theme=tokyonight&hide_border=true" alt="Sudharshan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanR7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sudarshanr7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
   <a href="mailto:sudharsan070r@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshanr7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
-</p>
