@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%20!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
@@ -27,7 +27,7 @@ p align="center">
 
 ## 🛠️ Tech Stack & Skills (2 Columns)
 
-<table align="center">
+<table align="">
 <tr>
 <td width="50%" valign="top">
 
@@ -52,7 +52,8 @@ p align="center">
 ### 🎨 Design & Automation  
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="40"
+       style="filter: brightness(0) saturate(100%) invert(17%) sepia(89%) saturate(7492%) hue-rotate(355deg) brightness(102%) contrast(120%);" />
 </p>
 
 ### 🧠 Languages  
@@ -80,5 +81,5 @@ p align="center">
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:7f5af0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
 </p>
