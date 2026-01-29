@@ -1,85 +1,47 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%20!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
+## 🛠️ Tech Stack & Skills (3×2 Grid)
 
-
-<h3 align="center">🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Lover-💻-bd93f9" />
-  <img src="https://img.shields.io/badge/Innovation-⚡-ff79c6" />
-  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-8be9fd" />
-</p>
-
----
-
-## 👋 About Me  
-
-🎓 I’m a **Computer Science Engineering student**  
-📚 Currently learning **Data Structures & Algorithms (DSA)**  
-💡 I love **code, innovation, and different thinking**  
-🛠️ I enjoy building ideas into meaningful digital experiences  
-
-> *“Different thinking leads to different results — and that mindset shapes everything I build.”*
-
----
-
-## 🛠️ Tech Stack & Skills (2 Columns)
-
-<table align="">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-</p>
-
-### 🔧 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
+
+### 🔧 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+<td width="33%" valign="top" align="center">
 
 ### 🗄️ Database & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
-### 🎨 Design & Automation  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="40"
-       style="filter: brightness(0) saturate(100%) invert(17%) sepia(89%) saturate(7492%) hue-rotate(355deg) brightness(102%) contrast(120%);" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top" align="center">
 
 ### 🧠 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js" />
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎨 Design  
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ Automation (n8n)  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg"
+     width="48"
+     style="filter: brightness(0) saturate(100%) invert(18%) sepia(96%) saturate(7475%) hue-rotate(356deg) brightness(104%) contrast(120%);" />
 
 </td>
 </tr>
 </table>
-
----
-
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="mailto:sudharsan070r@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudarshanr7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
-</p>
