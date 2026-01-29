@@ -1,73 +1,107 @@
-<div align="center">
-  <img src="https://github.com/Sudarshan-R-7/Sudarshan-R-7/assets/122020290/a62ad8b5-3121-4f46-857e-0b0c95844a49" alt="Profile Picture" width="200px" />
-  <h1>Hey there, I'm Sudharshan! 👋</h1>
-  <p>A passionate Computer Science Engineering student diving deep into the world of technology.</p>
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:6272a4&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Lover-💻-bd93f9" />
+  <img src="https://img.shields.io/badge/Innovation-⚡-ff79c6" />
+  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-8be9fd" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <p>
-    I'm a curious and driven individual with a strong inclination towards problem-solving and innovative thinking.
-    Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to build robust and efficient solutions.
-    I thrive on challenges and constantly seek out new ways to approach problems, always looking to learn and grow.
-  </p>
-  <img src="https://github.com/Sudarshan-R-7/Sudarshan-R-7/assets/122020290/f18e932b-98f5-4702-861f-135b1d4b68e7" alt="Coding illustration" width="400px"/>
-</div>
+## 👋 About Me  
+
+🎓 Computer Science Engineering student  
+📚 Currently learning **Data Structures & Algorithms (DSA)**  
+💡 Love **code, innovation, and different thinking**  
+🛠️ Turning ideas into meaningful digital experiences  
+
+> *“Different thinking leads to different results — and that mindset shapes everything I build.”*
 
 ---
 
-<div align="center">
-  <h2>💻 My Skillset</h2>
-  <p>Here's a glimpse into the technologies and tools I enjoy working with:</p>
+## 🛠️ Tech Stack & Skills
 
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-  <h3>Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  </p>
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000000" />
+</p>
 
-  <h3>Database</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
+</td>
+<td width="33%" align="center">
 
-  <h3>Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </p>
+### 🔧 Backend  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" />
+</p>
 
-  <h3>Design & Other Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/n8n-FF6200?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Google Firebase" />
-  </p>
-</div>
+</td>
+<td width="33%" align="center">
+
+### 🗄️ Database & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 🧠 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Design  
+<p>
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Automation (n8n)  
+<p>
+  <img src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=EF4444" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  <h2>🤝 Let's Connect!</h2>
-  <p>I'm always open to collaborating on interesting projects and connecting with fellow tech enthusiasts.</p>
+## 📬 Connect With Me  
 
-  <p>
-    <a href="mailto:sudharsan070r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/sudarshanr7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:sudharsan070r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshanr7">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <p>Thanks for stopping by! 🚀</p>
-  <img src="https://github.com/Sudarshan-R-7/Sudarshan-R-7/assets/122020290/a62ad8b5-3121-4f46-857e-0b0c95844a49" alt="Coding love" width="100px"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272a4,100:bd93f9&height=120&section=footer" />
+</p>
