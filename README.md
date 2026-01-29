@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=200&section=header&text=Hi%20I'm%20Sudarshan%20R!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Computer Science Engineering Student | Tech Explorer | Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Lover-💻-blue" />
-  <img src="https://img.shields.io/badge/Innovation-⚡-green" />
-  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-purple" />
+  <img src="https://img.shields.io/badge/Code%20Lover-💻-red" />
+  <img src="https://img.shields.io/badge/Innovation-⚡-purple" />
+  <img src="https://img.shields.io/badge/Different%20Thinking-🧠-pink" />
 </p>
 
 ---
@@ -26,28 +26,28 @@
 
 ## 🛠️ Tech Stack & Skills  
 
-### 🌐 Frontend  
-<p>
+### 🔹 Frontend  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
 </p>
 
-### 🔧 Backend  
-<p>
+### 🔹 Backend  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database  
-<p>
+### 🔹 Database & Cloud  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🧠 Languages  
-<p>
+### 🔹 Languages  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🎨 Design & Automation  
-<p>
+### 🔹 Design & Automation  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" />
 </p>
@@ -57,11 +57,15 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanr7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan-R23&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanr7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsan-R23&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan-R23&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -79,11 +83,6 @@
 
 ---
 
-## ⚡ Fun Fact  
-💭 I don’t just write code — I think differently about problems and build smarter solutions.
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:f43f5e&height=120&section=footer" />
 </p>
