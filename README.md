@@ -38,7 +38,8 @@
   </td>
   <td align="center" width="25%">
     <b>Tools / Design</b><br><br>
-    <img src="https://skillicons.dev/icons?i=figma,firebase,n8n" />
+    <img src="https://skillicons.dev/icons?i=figma,firebase" />
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" />
   </td>
 </tr>
 </table>
