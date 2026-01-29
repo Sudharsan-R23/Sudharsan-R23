@@ -20,19 +20,25 @@
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <table align="center">
 <tr>
-  <td align="center" width="33%">
+  <td align="center" width="25%">
     <b>Frontend</b><br><br>
     <img src="https://skillicons.dev/icons?i=react,js,tailwind" />
   </td>
-  <td align="center" width="33%">
+  <td align="center" width="25%">
     <b>Backend</b><br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </td>
-  <td align="center" width="33%">
-    <b>Languages / Tools</b><br><br>
-    <img src="https://skillicons.dev/icons?i=python,figma,firebase,n8n" />
+  <td align="center" width="25%">
+    <b>Languages</b><br><br>
+    <img src="https://skillicons.dev/icons?i=python" />
+  </td>
+  <td align="center" width="25%">
+    <b>Tools / Design</b><br><br>
+    <img src="https://skillicons.dev/icons?i=figma,firebase,n8n" />
   </td>
 </tr>
 </table>
