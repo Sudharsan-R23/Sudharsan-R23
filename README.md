@@ -40,8 +40,12 @@
   <td align="center" width="25%">
     <b>Tools / Design</b><br><br>
     <img src="https://skillicons.dev/icons?i=figma,firebase" />
+<<<<<<< HEAD
     &nbsp;&nbsp;
     <img srec='./assets/n8n.png'>
+=======
+    <img src="./assets/n8n.png" width="25%" />
+>>>>>>> e4fbfc8371f4045e24688e3b1f28dd1c9b4983fa
   
   </td>
 </tr>
