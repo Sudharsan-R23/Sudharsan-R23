@@ -40,6 +40,7 @@
   <td align="center" width="25%">
     <b>Tools / Design</b><br><br>
     <img src="https://skillicons.dev/icons?i=figma,firebase" />
+    &nbsp;&nbsp;
     <img srec='./assets/n8n.png'>
   
   </td>
