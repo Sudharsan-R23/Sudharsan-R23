@@ -39,10 +39,10 @@
   </td>
   <td align="center" width="25%">
   <b>Tools / Design</b><br><br>
-  <img src="https://skillicons.dev/icons?i=figma,firebase" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,linux" />
       &nbsp;
     <img src='./assets/n8n.png' width='25%' >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/CentOS_logo.svg" width="25%" />
+    
 
 
   
