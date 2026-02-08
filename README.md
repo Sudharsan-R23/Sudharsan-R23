@@ -41,6 +41,8 @@
   <b>Tools / Design</b><br><br>
   <img src="https://skillicons.dev/icons?i=figma,firebase,linux" />
     <img src='./assets/n8n.png' width='25%' >
+    <img src='./assets/n8n.png' width='25%' >
+    <img src='./assets/n8n.png' width='25%' >
     
 
 
